@@ -1,4 +1,4 @@
-# KRYPT - Web 3.0 Blockchain Application
+# KRYPT - Web 3.0 Blockchain Application 🪙
 
 ![Ekran Görüntüsü (152)](https://user-images.githubusercontent.com/85782760/202261141-6d88ce7b-a76d-47be-a5dc-53d7b115d697.png)
 
